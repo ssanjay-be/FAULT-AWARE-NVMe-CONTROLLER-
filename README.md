@@ -227,10 +227,42 @@ Project title: *Fault-Aware FPGA Storage-Controller RTL with Selective Command R
 Use the final bibliographic details supplied by the authors or the official proceedings record if citing this work. No open-source license is included; obtain agreement from all project authors and the supervisor before selecting a license or authorizing reuse.
 
 ---
+## 👨‍💻 Author
+
+<div align="center">
+
+| | |
+|---|---|
+| **Name** | Sanjay S |
+| **Institution** | M Kumarasamy College of Engineering |
+| **Email** | sanjaysece7@gmail.com |
+| **LinkedIn** | [sanjay-s-296162362](https://www.linkedin.com/in/sanjay-s-296162362/) |
+| **GitHub** | [ssanjay-be](https://github.com/ssanjay-be) |
+
+</div>
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute with attribution.
+
+---
+
+<div align="center">
+
+### 🌟 If this project helped you, please give it a star!
+
+[![GitHub stars](https://img.shields.io/github/stars/ssanjay-be/FAULT-AWARE-NVMe-CONTROLLER-?style=social)](https://github.com/ssanjay-be/FAULT-AWARE-NVMe-CONTROLLER-)
+
+**Made with ❤️ by Sanjay S | M Kumarasamy College of Engineering**
+
+</div>
 
 <div align="center">
 
 **Built for FPGA reliability research and reproducible RTL experimentation.**
+
 
 <sub>Verilog HDL · CRC-8 · Command Integrity · Selective Replay · Vivado</sub>
 
